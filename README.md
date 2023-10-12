@@ -1,2 +1,2 @@
-# DimensionTechAD
-Dimension Technologies - Analytic Dashboard Internship project
+# DimensionAD
+Dimensions Analytic Dashboard
